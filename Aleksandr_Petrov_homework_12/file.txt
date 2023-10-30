@@ -1,0 +1,9 @@
+Fil
+1
+2
+1
+text
+6
+number
+7
+words

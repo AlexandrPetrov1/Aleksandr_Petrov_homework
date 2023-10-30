@@ -1,0 +1,3 @@
+apple	10	2
+orange	24	7
+grape	2	10

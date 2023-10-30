@@ -1,0 +1,6 @@
+cat
+dog
+panda
+beer
+pig
+horse
